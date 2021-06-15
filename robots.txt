@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /portfolio/wp-admin/
+Disallow: /*.pdf$
+Allow: /portfolio/wp-admin/admin-ajax.php
+Sitemap: https://himalayasharma.github.io/sitemap.xml
