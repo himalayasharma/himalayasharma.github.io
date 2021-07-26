@@ -1,2 +1,2 @@
 # himalayasharma.github.io
-Personal portfolio website (Under testing)
+Personal portfolio website
